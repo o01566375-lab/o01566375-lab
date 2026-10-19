@@ -13,6 +13,16 @@ My passion lies in the digital world, where I enjoy diving into web development 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=o01566375-lab&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
+
+---
+
+### 📊 GitHub Stats & Languages 🚀
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=o01566375-lab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="o01566375-lab Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=o01566375-lab&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
 ![](https://github-profile-trophy.vercel.app/?username=o01566375-lab&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
